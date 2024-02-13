@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"Donatello","image":"https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/large/800/Donatello.Teenage-Mutant-Ninja-Turtles.webp","date":"2024-02-13","description":"Ninja Turtles developer - Donatello","id":"c840e42d-e003-4132-918d-839dd91c5aa2"}],"users":[{"email":"test@test.com","password":"$2a$12$YS97x860R5c3cd4EH6kXb.Ff/eaPKm2w5OX/pxXw.I6GDaJ0UYnre","id":"6b248aef-7f43-4ae1-a469-227e9d2243ea"}]}
